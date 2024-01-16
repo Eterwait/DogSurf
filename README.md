@@ -7,3 +7,5 @@ Dataset contains data from inner and external IMU sensor. Example of data from e
 | Accelerometer X | Accelerometer Y | Accelerometer Z |   Gyroscope X    |   Gyroscope Y    |   Gyroscope Z    |    Not used     |    Not used     |    Not used     |    Not used     |
 | :-------------: | :-------------: | :-------------: | :--------------: | :--------------: | :--------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | -10171.0000     | -1005.0000      | 1983.0000       | -6467.0000       | -3533.0000       | 32767.0000       |0.0000           |0.0000           | 0.0000          | 1698491416217   |
+
+In **External data** columns 1-6 are used, in **Inner data** columns 8-13 are used.
