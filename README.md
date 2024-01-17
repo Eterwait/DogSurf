@@ -10,4 +10,9 @@ Example of data from external sensor:
 | -10171.0000     | -1005.0000      | 1983.0000       | -6467.0000       | -3533.0000       | 32767.0000       |0.0000           |0.0000           | 0.0000          | 1698491416217   |
 
 In **External data** columns 1-6 are used, in **Inner data** columns 8-13 are used.  
-To use code you need create conda inviroment, using **requirements.txt** file and instructions in it.
+To use code you need create conda inviroment, using **requirements.txt** file and instructions in it.  
+Perfomance results of DogSurf on open dataset QCAT (https://www.data.qld.gov.au/dataset/qcat-matters) are in figures below:
+
+![image_2023-12-08_12-27-49](https://github.com/Eterwait/DogSurf/assets/153010910/d239961d-b129-400e-80cb-3e6fa704bb0b)
+![image_2023-12-08_12-27-53](https://github.com/Eterwait/DogSurf/assets/153010910/d4f80a7f-1649-4802-ab59-c55b3b1c966e)
+
