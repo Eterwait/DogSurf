@@ -9,5 +9,5 @@ Example of data from external sensor:
 | :-------------: | :-------------: | :-------------: | :--------------: | :--------------: | :--------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | -10171.0000     | -1005.0000      | 1983.0000       | -6467.0000       | -3533.0000       | 32767.0000       |0.0000           |0.0000           | 0.0000          | 1698491416217   |
 
-In **External data** columns 1-6 are used, in **Inner data** columns 8-13 are used.
+In **External data** columns 1-6 are used, in **Inner data** columns 8-13 are used.  
 To use code you need create conda inviroment, using **requirements.txt** file and instructions in it.
