@@ -1,4 +1,4 @@
-<img width="363" alt="dog5" src="https://github.com/Eterwait/DogSurf/assets/153010910/d1cfae08-562e-424f-862f-c2ef061b430c">
+<img width="363" alt="297193536-d1cfae08-562e-424f-862f-c2ef061b430c" src="https://github.com/user-attachments/assets/3024c6a5-616e-462d-898c-3569304cdcab" />
 
 ## Welcome to DogSurf!
 This repository contains the code for training DogSurf, a model of surface recognition for a robot dog. Repo contains a dataset of five surfaces, preprocessing and training code and weights for different versions of the model.
@@ -31,10 +31,12 @@ To use this code, you need to create a Conda environment. Follow the instruction
 Additional performance results of DogSurf, which are not included in the paper, are presented below. They are based on a [QCAT][1] open dataset.   
 
 **Metrics:**
-![image_2023-12-08_12-27-49](https://github.com/Eterwait/DogSurf/assets/153010910/d239961d-b129-400e-80cb-3e6fa704bb0b)
+![Metrics](https://github.com/user-attachments/assets/297b7192-a749-40d9-a824-78ee025e8cc4)
+
 
 **Confusion matrix:**
-![image_2023-12-08_12-27-53](https://github.com/Eterwait/DogSurf/assets/153010910/d4f80a7f-1649-4802-ab59-c55b3b1c966e)
+![Confusion matrix](https://github.com/user-attachments/assets/a74cd326-3e8f-4620-b777-9991c86ade80)
+
 
 [1]: https://www.data.qld.gov.au/dataset/qcat-matters
 
